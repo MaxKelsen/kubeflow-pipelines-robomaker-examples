@@ -1,0 +1,4 @@
+sagemaker
+kfp
+jupyter
+jupyterlab
